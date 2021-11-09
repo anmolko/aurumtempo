@@ -1888,7 +1888,7 @@ img.lazy-image.loaded {
   top: 0;
   width: 100%;
   height: 100%;
-  background-color: var(--thm-black);
+  background-color: #0b469d;
   opacity: 0.6;
   z-index: 1;
 }
@@ -3569,8 +3569,8 @@ img.lazy-image.loaded {
 
 .we-do-section {
   position: relative;
-  padding: 240px 0px 90px;
-  background: #ffffff url(../images/background/pattern-2.png) left top repeat;
+  padding: 150px 0px 100px;
+  background: #062248 url(../images/background/pattern-2.png) left top repeat;
 }
 
 .we-do-section .sec-title {
@@ -4714,7 +4714,7 @@ img.lazy-image.loaded {
 .parallax-section {
   position: relative;
   padding: 120px 0px;
-  background: #1c1e22;
+  background: #0b469d;
   text-align: center;
   color: #ffffff;
   z-index: 1;
@@ -4875,7 +4875,7 @@ img.lazy-image.loaded {
 .agency-section {
   position: relative;
   padding: 120px 0px 80px;
-  background: #ffffff url(../images/background/pattern-2.png) left top repeat;
+  background: #ffffff url(../images/background/pattern-1.png) left top repeat;
 }
 
 .agency-section .sec-title {
@@ -11870,7 +11870,7 @@ img.lazy-image.loaded {
 .body-dark .features-section-two .content-container::before,
 .body-dark .faqs-section,
 .body-dark .we-do-section {
-  background: #ffffff url(../images/background/pattern-2.png) left top repeat;
+  background-color: #062248;
 }
 
 .body-dark .we-do-section .progress-box .bar {
@@ -11880,12 +11880,12 @@ img.lazy-image.loaded {
 /* accordion box dark */
 .body-dark .accordion-box .block.active-block,
 .body-dark .accordion-box .block {
-  background-color: #1c1e22;
+  background-color: #0d274c;
   box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.05);
 }
 
 .body-dark .accordion-box .block .acc-btn.active {
-  background-color: #1c1e22;
+  background-color: #0d274c;
 }
 
 /* gallery section dark */
@@ -11947,8 +11947,7 @@ img.lazy-image.loaded {
 /* agency section dark */
 
 .body-dark .agency-section {
-  background-color: #222429;
-  background-image: url(../images/background/we-do-section-bg-dark.jpg);
+  background-color: #0d274c;
 }
 
 .body-dark .agency-section .default-tabs .tab-buttons .tab-btn span {

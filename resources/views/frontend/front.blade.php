@@ -500,7 +500,7 @@
     <!-- Clients Section -->
     <section class="team-section team-section__dark">
         <div class="auto-container">
-            <div class="sec-title centered">
+            <div class="section-title centered">
                 <h2>Our Valued Clients<span class="dot">.</span></h2>
             </div>
         </div>
