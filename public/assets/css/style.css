@@ -11298,14 +11298,14 @@ img.lazy-image.loaded {
 }
 
 .mobile-nav__container li a:hover {
-  color: var(--thm-black);
+  color: var(--thm-blue);
 }
 
 .mobile-nav__container li.current-menu-item>a,
 .mobile-nav__container li.current-menu-item .dropdown-btn,
 .mobile-nav__container li.current .dropdown-btn,
 .mobile-nav__container li.current>a {
-  color: var(--thm-black);
+  color: var(--thm-blue-secondary);
 }
 
 .side-menu__social {
@@ -11335,7 +11335,7 @@ img.lazy-image.loaded {
 
 .side-menu__social a:hover {
   background-color: #ffaa16;
-  color: var(--thm-black);
+  color: var(--thm-blue);
 }
 
 .side-menu__content {
@@ -11353,7 +11353,7 @@ img.lazy-image.loaded {
 }
 
 .side-menu__content p a {
-  color: var(--thm-black);
+  color: var(--thm-blue);
   transition: all 500ms ease;
 }
 
