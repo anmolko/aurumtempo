@@ -35,7 +35,7 @@
                 <!--Right Column-->
                 <div class="right-col col-lg-6 col-md-12 col-sm-12">
                     <div class="inner">
-                        <div class="sec-title">
+                        <div class="section-title">
                             <h2>About AURUM<span class="dot">.</span></h2>
                             <div class="lower-text">
                                 Aurum Consulting Pvt. Ltd. Specializing in employment agency based in Kathmandu, capital of Nepal. 
@@ -50,15 +50,10 @@
                                 <br>
                                 We are proud to claim that we have a company managed by well- qualified and a dynamic team of personnel, with 
                                 long standing experience and expertise in recruitment. <br>
-                                <hr>
-                                 <hr>
                                  Our Managing Director- Mr. DB Thanet has valuable hands-on experience of recruitment of manpower who firmly believes 
                                  in relationships built on trust, we are not only a agency but a complete HR solution. we pride ourselves on finding 
                                  our applicants full time positions and our clients, that all important team member in a cost effective and efficient way.
-                                <hr>
-                                 <hr>
-                                
-                                
+
                             </div>
                         </div>
                     </div>
@@ -68,7 +63,7 @@
     </section>
 
     <!--Mission Vision Objective Section-->
-    <section class="agency-section agency-section__dark">
+    <section class="agency-section agency-section__dark" style=" background: var(--thm-blue-secondary) url('/assets/images/background/pattern-1.png') center top repeat;">
         <div class="auto-container">
             <div class="row clearfix">
                 <!--Left Column-->
@@ -94,7 +89,7 @@
                                 <!--Tab-->
                                 <div class="tab active-tab" id="tab-1">
                                     <div class="content">
-                                        <div class="text">
+                                        <div class="text-white">
                                             AURUM COUNSULTING is devoted to all clients in supporting recruitment for manpower.
                                             We provide planning, counseling and ideas to our clients in every aspect of the industry.
                                             We look forward in reaching its aim to take a recognized stand in the area of manpower and
@@ -107,7 +102,7 @@
                                 <!--Tab-->
                                 <div class="tab" id="tab-2">
                                     <div class="content">
-                                        <div class="text">
+                                        <div class="text-white">
                                             The main objective of AURUM COUNSULTING  is to offer employment and prospect us with in the vast labor force
                                             requirement and professional skills globally. We also try our best to keep in contact with employees
                                             sent overseas for jobs until their arrival home or in most cases, to other countries as well.
@@ -120,7 +115,7 @@
                                 <!--Tab-->
                                 <div class="tab" id="tab-3">
                                     <div class="content">
-                                        <div class="text">
+                                        <div class="text-white">
                                             We have an agile and vast digital talent pool that is carefully analysed
                                             and screened by our experts. Through IT and our Business Intelligence our
                                             task expedites your search for the right selection criteria.
@@ -135,12 +130,12 @@
                 <!--Right Column-->
                 <div class="right-col col-xl-6 col-lg-12 col-md-12 col-sm-12">
                     <div class="inner">
-                        <div class="text">We aim to reinforce a better relationships between our nations
+                        <div class="text-white">We aim to reinforce a better relationships between our nations
                             while enhancing the national development system with your cooperation in the delivery
                             of needed manpower strength to your country.</div>
                         <div class="featured-block-two clearfix">
                             <div class="image"><img src="{{asset('assets/images/resource/featured-image-6.jpg')}}" alt=""></div>
-                            <div class="text">
+                            <div class="text-white">
                                 <ul>
                                     <li> High level planning and conseling </li>
                                     <li> Vast & agile digital talent pool.</li>
@@ -166,11 +161,11 @@
                 <!--Left Column-->
                 <div class="left-col col-lg-6 col-md-12 col-sm-12">
                     <div class="inner">
-                        <div class="sec-title">
+                        <div class="section-title">
                             <h2>Message from Chairman<span class="dot">.</span></h2>
                         </div>
                         <div class="featured-block clearfix" >
-                            <div class="text">
+                            <div class="text-1">
                                 We are pleased to introduced our company as a <b> AURUM COUNSULTING PVT. LTD.</b>Kathmandu, Nepal .
                                 We are an authorized company under the Government of Qatar to operate our Human Resource  Services. 
                                 We extend our humble services in providing credible supplies of manpower in interested parties and we would be
@@ -186,8 +181,8 @@
                 <!--Right Column-->
                 <div class="right-col col-lg-6 col-md-12 col-sm-12">
                     <div class="inner">
-                        <div class="featured-block clearfix" style="background: #ffffff url('assets/images/background/pattern-2.png') left top repeat; box-shadow: 0px 10px 30px 0px rgb(0 0 0 / 5%);    color: var(--thm-text);padding: 20px 40px;">
-                            <div class="text">
+                        <div class="featured-block clearfix" style="background: #ffffff url('assets/images/background/pattern-2.png') left top repeat; box-shadow: 0px 10px 30px 0px rgb(0 0 0 / 5%);padding: 20px 40px;">
+                            <div class="text-1">
 
                                   <br>
                                Our focus places priority on healthy,competent, skillful, honest and professional manpower via our
@@ -208,14 +203,9 @@
         </div>
     </section>
     <!-- /.Message Chairman  -->
-    <hr>
-    <hr>
-    
 
 
-
-    <!-- /.Message from director -->
-    <section class="about-me-one" >
+    <section class="about-me-one" style=" background: var(--thm-blue-secondary) url('/assets/images/background/pattern-1.png') center top repeat;">
         <div class="auto-container">
             <div class="row clearfix">
                 <!--Left Column-->
@@ -224,17 +214,16 @@
                         <div class="sec-title">
                             <h2>Message from Managing Director<span class="dot">.</span></h2>
                         </div>
-                        <div class="featured-block clearfix" >
-                            <div class="text">
+                        <div class="featured-block clearfix">
+                            <div class="text-white">
                                 In recent times the Middle East and Gulf countries recognized Nepali as the most hardworking, honest,
-                                and sincere workers amongst the workers of many countries of the world. The tremendous demand of workers 
-                                from the employers of the world, the ever-increasing demand of Nepal labor force from other countries of the 
-                                world indicates the proficiency, ability, and hardworking qualities of Nepali Workers. 
-                                <hr>
+                                and sincere workers amongst the workers of many countries of the world. The tremendous demand of workers
+                                from the employers of the world, the ever-increasing demand of Nepal labor force from other countries of the
+                                world indicates the proficiency, ability, and hardworking qualities of Nepali Workers.
+                                <br>
                                 The other best qualities of the Nepali workforce, for which they are preferred by the employers
-                                are their politeness in their dealing with employers and host Nations and non-indulgence in political 
+                                are their politeness in their dealing with employers and host Nations and non-indulgence in political
                                 activities of the region and any other activities that are detrimental to the interest of the host Nation.
-
 
                             </div>
                         </div>
@@ -244,22 +233,15 @@
                 <!--Right Column-->
                 <div class="right-col col-lg-6 col-md-12 col-sm-12">
                     <div class="inner">
-                        <div class="featured-block clearfix" style="background: #ffffff url('assets/images/background/pattern-2.png') left top repeat; box-shadow: 0px 10px 30px 0px rgb(0 0 0 / 5%);    color: var(--thm-text);padding: 20px 40px;">
+                        <div class="featured-block clearfix" style="background-color: #062248;box-shadow: 0px 10px 30px 0px rgb(0 0 0 / 5%);color: #ffffff;padding: 20px 40px;">
                             <div class="text">
-                                <br>
-                                 <br>
-                                  <br>
-                                  
-                                  <br>
-                                 <br>
-                                  <br>
-                               We at AURUM COUNSULTING Hope to ensure that a happy and mutually 
-                               benefiting relationship does take off and remains smooth throughout. We always endeavor 
-                               to ensure that only the best people from Nepal are recruited to those countries that need their services.
+                                We at AURUM COUNSULTING Hope to ensure that a happy and mutually
+                                benefiting relationship does take off and remains smooth throughout. We always endeavor
+                                to ensure that only the best people from Nepal are recruited to those countries that need their services.
                                 <br/><br/>
                                 Sincerely yours,<br/>
                                 <h4> DB Thanet (Dilip)
-                                <br> Managing Director. </h4>
+                                    <br> Managing Director. </h4>
                             </div>
                         </div>
                     </div>
@@ -267,7 +249,6 @@
             </div>
         </div>
     </section>
-    <!-- /.Message from director -->
 
     <!-- Parallax Section -->
     <section class="parallax-section jarallax" data-jarallax data-speed="0.3" data-imgPosition="50% 80%">

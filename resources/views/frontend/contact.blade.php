@@ -26,7 +26,7 @@
         <div class="auto-container">
 
             <div class="form-box">
-                <div class="sec-title">
+                <div class="section-title">
                     <h2>Write Us a Message<span class="dot">.</span></h2>
                 </div>
                 @if ($message = Session::get('success'))

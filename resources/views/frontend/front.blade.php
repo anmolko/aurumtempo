@@ -247,7 +247,7 @@
                             <h2>Message from Managing Director<span class="dot">.</span></h2>
                         </div>
                         <div class="featured-block clearfix" >
-                            <div class="text">
+                            <div class="text-white">
                                 We are pleased to introduced our company as a <b> AURUM COUNSULTING PVT. LTD.</b>in Kathmandu Nepal. 
                                 We are an authorized company under the Government of Nepal to operate our Human Resource  Services.
                                 We extend our humble services in providing credible supplies of manpower in interested parties and we would be readily

@@ -106,7 +106,7 @@
 body {
   font-size: 16px;
   font-family: var(--thm-b-font);
-  color: var(--thm-text);
+  color: var(--thm-blue-text);
   line-height: 2.125em;
   font-weight: 400;
   background: #ffffff;
@@ -523,7 +523,7 @@ img {
   bottom: 20px;
   width: 44px;
   height: 44px;
-  color: var(--thm-black);
+  color: var(--thm-blue);
   font-size: 14px;
   line-height: 44px;
   border-radius: 50%;
@@ -1624,12 +1624,12 @@ img.lazy-image.loaded {
   height: 70px;
   width: 100%;
   font-size: 14px;
-  color: #686a6f;
+  color: #425481;
   line-height: 40px;
   font-weight: 400;
   padding: 14px 30px;
-  background-color: #f4f5f8;
-  border: 1px solid #f4f5f8;
+  background-color: #e4e9f9ad;
+  border: 1px solid #e4e9f9ad;
   border-radius: 7px;
   font-family: var(--thm-b-font);
   transition: all 300ms ease;
@@ -2835,7 +2835,7 @@ img.lazy-image.loaded {
   font-size: 70px;
   line-height: 0.9em;
   text-transform: uppercase;
-  color: var(--thm-black);
+  color: var(--thm-white);
   font-weight: 400;
   margin-bottom: 0px;
 }
@@ -3011,7 +3011,7 @@ img.lazy-image.loaded {
 }
 
 .service-block .inner-box:hover .icon-box {
-  color: var(--thm-black);
+  color: var(--thm-blue);
 }
 
 .service-block .inner-box h6 {
@@ -3039,7 +3039,7 @@ img.lazy-image.loaded {
 .service-block .inner-box:hover .count,
 .service-block .inner-box:hover h6,
 .service-block .inner-box:hover h6 a {
-  color: var(--thm-black);
+  color: var(--thm-white);
 }
 
 .service-block .inner-box h6 a:hover {
@@ -3734,7 +3734,7 @@ img.lazy-image.loaded {
   cursor: pointer;
   padding: 20px 40px;
   padding-right: 60px;
-  color: var(--thm-black);
+  color: var(--thm-blue);
   transition: all 500ms ease;
   font-family: var(--thm-font);
 }
@@ -3785,6 +3785,7 @@ img.lazy-image.loaded {
   display: block;
   position: relative;
   top: 0px;
+  color: #375176;
   display: block;
 }
 
@@ -4445,9 +4446,9 @@ img.lazy-image.loaded {
 .team-block .image-box img {
   display: block;
   width: 100%;
-  -webkit-filter: grayscale(100%);
-  -ms-filter: grayscale(100%);
-  -moz-filter: grayscale(100%);
+  -webkit-filter: unset;
+  -ms-filter: unset;
+  -moz-filter: unset;
   transition: all 500ms ease;
   border-radius: 7px;
 }
@@ -4566,8 +4567,8 @@ img.lazy-image.loaded {
   display: block;
   width: 10px;
   height: 10px;
-  background: #d3d3d4;
-  border: 2px solid #d3d3d4;
+  background: #0b2954;
+  border: 2px solid #0b2954;
   border-radius: 50%;
 }
 
@@ -4969,7 +4970,7 @@ img.lazy-image.loaded {
   line-height: 30px;
   font-size: 16px;
   font-weight: 500;
-  color: var(--thm-black);
+  color: var(--thm-white);
   text-align: center;
   padding: 14px 40px 11px;
   text-transform: uppercase;
@@ -6430,9 +6431,9 @@ img.lazy-image.loaded {
 .featured-section .left-col .image-box img {
   display: block;
   width: 100%;
-  -webkit-filter: grayscale(100%);
-  -ms-filter: grayscale(100%);
-  -moz-filter: grayscale(100%);
+  -webkit-filter: unset;
+  -ms-filter: unset;
+  -moz-filter: unset;
   transition: all 500ms ease;
   border-radius: 7px;
 }
@@ -9683,7 +9684,7 @@ img.lazy-image.loaded {
   position: relative;
   padding: 0;
   color: #ffffff;
-  background: var(--thm-black);
+  background:#17468b;
   background-position: center top;
   background-repeat: no-repeat;
   background-size: cover;
@@ -10170,7 +10171,7 @@ img.lazy-image.loaded {
   display: inline-block;
   font-size: 24px;
   line-height: 1.1em;
-  color: var(--thm-black);
+  color: var(--thm-blue);
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 0.01em;
@@ -10225,7 +10226,7 @@ img.lazy-image.loaded {
   line-height: 48px;
   font-size: 16px;
   text-transform: capitalize;
-  color: var(--thm-text);
+  color: var(--thm-blue-secondary);
   font-family: var(--thm-b-font);
   font-weight: 400;
   transition: all 0.3s ease;
@@ -10234,7 +10235,7 @@ img.lazy-image.loaded {
 
 .sidebar .services ul li:hover a,
 .sidebar .services ul li.active a {
-  color: var(--thm-black);
+  color: var(--thm-blue);
 }
 
 .sidebar .services ul li:hover:before,
@@ -10265,7 +10266,7 @@ img.lazy-image.loaded {
 }
 
 .sidebar .call-up .widget-inner {
-  background: var(--thm-black);
+  background: var(--thm-blue);
   color: #999b9f;
 }
 
@@ -10889,9 +10890,9 @@ img.lazy-image.loaded {
 .service-details .image img {
   display: block;
   width: 100%;
-  -webkit-filter: grayscale(100%);
-  -ms-filter: grayscale(100%);
-  -moz-filter: grayscale(100%);
+  -webkit-filter: unset;
+  -ms-filter: unset;
+  -moz-filter: unset;
   border-radius: 7px;
   transition: all 0.4s ease;
   -moz-transition: all 0.4s ease;
