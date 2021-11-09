@@ -70,7 +70,7 @@
                 <!--Title Block-->
                 <div class="title-block col-xl-6 col-lg-12 col-md-12 col-sm-12">
                     <div class="inner">
-                        <div class="sec-title">
+                        <div class="section-title">
                             <h2>Services we provide<span class="dot">.</span></h2>
                             <div class="lower-text">
                                 We have the dedication & consistency to provide reliable
@@ -159,14 +159,14 @@
                                 We establish right objective to link our valuable clients and candidates
                                 with reliable services and equal opportunity.</div>
                         </div>
-                        <div class="text">
+                        <div class="text-1">
                             <p>
                                 We have the dedication & consistency to provide reliable manpower supply & services to any establishment,
                                 hence a proven track record in establishing ourselves as a prime organization in Qatar.
                                 It is our great pride & responsibility to assure a credible performance with in the services we offer.
                             </p>
                         </div>
-                        <div class="text clearfix">
+                        <div class="text-1 clearfix">
                             <p>
                                 We are proud to claim that we have a company managed by well- qualified and a dynamic team of
                                 personnel, with long standing experience and expertise in recruitment.
@@ -190,11 +190,12 @@
                 <!--Left Column-->
                 <div class="left-col col-lg-6 col-md-12 col-sm-12">
                     <div class="inner">
-                        <div class="sec-title">
+                        <div class="section-title">
                             <h2>Message from Chairman<span class="dot">.</span></h2>
                         </div>
                         <div class="featured-block clearfix" >
-                            <div class="text">
+                            <div class="text text-blue">
+
                                 We are pleased to introduced our company as a <b> AURUM COUNSULTING PVT. LTD.</b>Kathmandu, Nepal .
                                 We are an authorized company under the Government of Qatar to operate our Human Resource  Services. 
                                 We extend our humble services in providing credible supplies of manpower in interested parties and we would be
@@ -211,7 +212,7 @@
                 <div class="right-col col-lg-6 col-md-12 col-sm-12">
                     <div class="inner">
                         <div class="featured-block clearfix" style="background: #ffffff url('assets/images/background/pattern-2.png') left top repeat; box-shadow: 0px 10px 30px 0px rgb(0 0 0 / 5%);    color: var(--thm-text);padding: 20px 40px;">
-                            <div class="text">
+                            <div class="text text-blue">
 
                                   <br>
                                Our focus places priority on healthy,competent, skillful, honest and professional manpower via our
@@ -232,11 +233,11 @@
         </div>
     </section>
     <!-- /.Message Chairman  -->
-    <hr>
+    <br>
 
 
     <!-- /.Message from director -->
-    <section class="about-me-one" style=" background: var(--thm-black) url('/assets/images/background/pattern-1.png') center top repeat;">
+    <section class="about-me-one" style=" background: var(--thm-blue-secondary) url('/assets/images/background/pattern-1.png') center top repeat;">
         <div class="auto-container">
             <div class="row clearfix">
                 <!--Left Column-->
@@ -261,9 +262,9 @@
                 <!--Right Column-->
                 <div class="right-col col-lg-6 col-md-12 col-sm-12">
                     <div class="inner">
-                        <div class="featured-block clearfix" style="background-color: #1c1e22;box-shadow: 0px 10px 30px 0px rgb(0 0 0 / 5%);color: #ffffff;padding: 20px 40px;">
+                        <div class="featured-block clearfix" style="background-color: #062248;box-shadow: 0px 10px 30px 0px rgb(0 0 0 / 5%);color: #ffffff;padding: 20px 40px;">
                             <div class="text">
-                                OTher best qualities of the Nepali workforce, for which they are preferred by the 
+                                Other best qualities of the Nepali workforce, for which they are preferred by the
                                 employers are their politeness in their dealing with employers and host Nations and non-indulgence
                                 in political activities of the region and any other activities that are detrimental to the interest of the host Nation.
                                 <br/><br/>
@@ -368,7 +369,7 @@
                 <!--Right Column-->
                 <div class="right-col col-lg-6 col-md-12 col-sm-12">
                     <div class="inner">
-                        <div class="sec-title">
+                        <div class="section-title">
                             <h2>Why choose AURUM COUNSULTING ? <span class="dot">.</span>  </h2>
                         </div>
                         <div class="faq-box clearfix">
